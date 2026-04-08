@@ -1,0 +1,20 @@
+{
+"name": "wyne-agent",
+"version": "1.0.0",
+"description": "Next-gen digital finance agent",
+"main": "scripts/start.js",
+"scripts": {
+"dev": "nodemon scripts/start.js",
+"start": "node scripts/start.js",
+"test": "jest"
+},
+"dependencies": {
+"dotenv": "^16.0.0",
+"express": "^4.18.2",
+"web3": "^4.0.0"
+},
+"devDependencies": {
+"jest": "^29.0.0",
+"nodemon": "^3.0.0"
+}
+}
