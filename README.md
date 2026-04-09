@@ -1,5 +1,7 @@
 # 🚀 Wyne Agent
 
+$WYNE on pump.fun : GVEFXcz9LwppR9YVs5amkyTowX7QyyW4hyDC8jcApump
+
 > Wyne Agent is shaping the future of digital finance through innovation, transparency, and next-generation crypto solutions.
 
 ---
